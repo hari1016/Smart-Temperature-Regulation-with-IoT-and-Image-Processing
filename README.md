@@ -1,2 +1,2 @@
 # AC-Automation-With-Human-Detection
-The AC Automation System is designed to enhance energy efficiency in climate control by using human detection technology. 
+The AC Automation System is designed to enhance energy efficiency in climate control by using human detection technology. Traditional AC systems often run at constant settings, leading to unnecessary energy consumption, especially in unoccupied rooms. Our system addresses this issue by dynamically adjusting the AC settings based on real-time occupancy data. By implementing a deep learning model to count the number of people and integrating it with an Arduino for decision-making, the system ensures optimal energy usage and comfort.
